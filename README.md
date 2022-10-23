@@ -2,8 +2,13 @@
 
 ![Capture](https://user-images.githubusercontent.com/48013370/197399587-e878f007-a20d-4f11-b65b-1f8664a8266c.PNG)
 
+## Overview of Project
+The ExerciseFitFlix web application is a modern fitness project that uses RapidApi and its API named ExerciseDB to enable users to explore over 1000 unique workouts. The functionality enables the user to choose from several muscle categories and get suggested workouts depending on the muscle group selected. The application also enables the user to utilise the search box to look for certain workouts. The user is then provided numerous types of exercises, which may be suggested based on the equipment used for the particular activity or comparable activities to the one selected. The feature also enables the user to see the information for the selected exercise. Furthermore, using YouTube APi enables you to show videos depending on the workout and then send the user to YouTube to view them.
 
-
+## Project build with
+- React.js
+- Material UI
+- 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
