@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# ExerciseFitFlix Application Created with React
+
+![Capture](https://user-images.githubusercontent.com/48013370/197399587-e878f007-a20d-4f11-b65b-1f8664a8266c.PNG)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
